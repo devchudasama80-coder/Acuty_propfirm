@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+.env
+.env.local
+dist/
+.next/
+propfirm/src/assets/img/Video1.mp4
